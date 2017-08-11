@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>SBA Jira CI Demo</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>SBA Jira CI Demos</value>
+    </caseValues>
+    <fields>
+        <label><!-- SBA Jira CI Demo --></label>
+        <name>SBA_Jira_CI_Demo__c</name>
+        <picklistValues>
+            <masterLabel>SBA Jira CI Demo01</masterLabel>
+            <translation><!-- SBA Jira CI Demo01 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SBA Jira CI Demo02</masterLabel>
+            <translation><!-- SBA Jira CI Demo02 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SBA Jira CI Demo03</masterLabel>
+            <translation><!-- SBA Jira CI Demo03 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SBA Jira CI Demo04</masterLabel>
+            <translation><!-- SBA Jira CI Demo04 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SBA Jira CI Demo05</masterLabel>
+            <translation><!-- SBA Jira CI Demo05 --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
